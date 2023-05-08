@@ -54,6 +54,8 @@ The `visualize_classification` function plots the decision boundary of the model
 
 To run the notebook, make sure you have the necessary packages installed, including `torch`, `numpy`, `matplotlib`, `sklearn`, `scipy`, and `optuna`. You can install these packages using `pip
 
+![OldXorBarrier](https://user-images.githubusercontent.com/106159145/236709933-f9f1afc8-2907-4ecb-9e50-4356c0d165e0.PNG)
+![NewXorBarrier](https://user-images.githubusercontent.com/106159145/236709931-4dfaf183-bc1b-470d-89e1-1d9a5cef34ea.PNG)
 
 
 # Deep Learning Model for Decision Boundary Manipulation
@@ -106,3 +108,6 @@ The `plot_img` function is called again to visualize the segmented image after t
 ## Usage
 
 To run the notebook, make sure you have the necessary packages installed, including `torch`, `torchvision`, `numpy`, `matplotlib`, `scipy`, and `optuna`. You can install these packages using `pip`.
+![Chair_before](https://user-images.githubusercontent.com/106159145/236709966-17aaca17-1be4-4f6c-b445-0949d5eca6a4.PNG)
+![Chair after](https://user-images.githubusercontent.com/106159145/236709967-c081f432-c4a9-43c0-9ed7-e0f592656a95.PNG)
+
