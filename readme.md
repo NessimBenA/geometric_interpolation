@@ -108,6 +108,7 @@ The `plot_img` function is called again to visualize the segmented image after t
 ## Usage
 
 To run the notebook, make sure you have the necessary packages installed, including `torch`, `torchvision`, `numpy`, `matplotlib`, `scipy`, and `optuna`. You can install these packages using `pip`.
+
 ![Chair_before](https://user-images.githubusercontent.com/106159145/236709966-17aaca17-1be4-4f6c-b445-0949d5eca6a4.PNG)
 ![Chair after](https://user-images.githubusercontent.com/106159145/236709967-c081f432-c4a9-43c0-9ed7-e0f592656a95.PNG)
 
